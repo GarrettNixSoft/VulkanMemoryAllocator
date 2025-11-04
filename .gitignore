@@ -5,3 +5,4 @@
 !/bin/Shader*.spv
 /VMA.vcxproj
 /bin-int/Debug-windows-x86_64/VMA
+/bin-int/windows-x86_64/Debug/VMA
